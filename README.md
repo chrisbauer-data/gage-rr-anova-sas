@@ -1,4 +1,4 @@
-#Gage R&R Study — Crossed ANOVA with REML
+# Gage R&R Study — Crossed ANOVA with REML
 
 A measurement systems analysis (Gage R&R) demonstrating two-way random effects ANOVA with REML variance component estimation — evaluating whether a measurement instrument itself is trustworthy before trusting the data it produces.
 
